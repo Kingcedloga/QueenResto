@@ -78,3 +78,16 @@ header .navbar li a:hover{
     background-image: url(./images/pageheader-banner.jpg);
     background-size: cover;
 }
+.banniere .contenu{
+    max-width: 70%;
+    text-align: center;
+}
+.banniere .contenu h2{
+    color: #fff;
+    font-size: 3em;
+    text-transform: capitalize;
+}
+.contenu p:nth-child(2){
+    color: #ffff;
+    font-size: 1.2em;
+}
