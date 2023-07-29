@@ -46,3 +46,18 @@ header{
     margin-left: 30px;
     font-weight: 700;
 }
+.btn-reserve{
+    padding: 10px 20px;
+       background: #fb911f;
+      margin-top: -10px;
+      text-transform:uppercase ;
+      border-radius: 30px;
+       font-weight: bold;
+       font-size: 15px;
+       transition: .4s
+   }
+   
+   .btn-reserve:hover{
+       background: #d87710;
+       transition: ease-out;
+   }
