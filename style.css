@@ -33,3 +33,16 @@ header{
 .logo span{
     color: #fb911f;
 }
+.navbar{
+    display: flex;
+    position: relative;
+}
+.navbar li{
+    list-style: none;
+}
+.navbar a{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 30px;
+    font-weight: 700;
+}
