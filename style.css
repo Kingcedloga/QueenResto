@@ -256,3 +256,7 @@ section{
     background: #d87710;
     transition: ease-out;
 }
+header .navbar li a:hover{
+    color: #fb911f;
+    border-bottom: 2px solid #fb911f;
+}
