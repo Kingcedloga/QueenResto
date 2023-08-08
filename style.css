@@ -252,3 +252,7 @@ section{
        font-size: 15px;
        transition: .4s
    }
+   .btn-reserve:hover{
+    background: #d87710;
+    transition: ease-out;
+}
