@@ -260,3 +260,13 @@ header .navbar li a:hover{
     color: #fb911f;
     border-bottom: 2px solid #fb911f;
 }
+.banniere{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./images/pageheader-banner.jpg);
+    background-size: cover;
+}
