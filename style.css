@@ -279,3 +279,7 @@ header .navbar li a:hover{
     font-size: 3em;
     text-transform: capitalize;
 }
+.contenu p:nth-child(2){
+    color: #ffff;
+    font-size: 1.2em;
+}
