@@ -331,4 +331,13 @@ header .navbar li a:hover{
         align-items: center;
     
     }
+    .row .col50 h2{
+        margin-bottom: 20px;
+    }
     
+    .titre-texte{
+        color: #000;
+        font-size: 2em;
+        font-weight: 300px;
+        text-transform: capitalize;
+    }
