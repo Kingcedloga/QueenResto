@@ -351,3 +351,10 @@ header .navbar li a:hover{
         width: 600px;
         position: relative;
     }
+    .titre{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
