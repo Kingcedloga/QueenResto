@@ -315,3 +315,12 @@ header .navbar li a:hover{
     .btn2:hover{
     letter-spacing: 4px;
     }
+    section{
+        padding: 100px;
+    }
+    .row{
+        position: relative;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
