@@ -389,3 +389,8 @@ header .navbar li a:hover{
         height: 300px;
         object-fit: cover;
     }
+    .menu .contenu .box .text{
+        text-align: center;
+        font-weight: 300px;
+        color: #111;
+    }
