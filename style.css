@@ -358,3 +358,20 @@ header .navbar li a:hover{
         align-items: center;
         flex-direction: column;
     }
+    .menu{
+        margin-top: -100px;
+    }
+    
+    .menu .contenu{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-top: 40px;
+    }
+    
+    .menu .contenu .box{
+        width: 350px;
+        margin: 20px;
+        border: 20px solid #fff;
+        box-shadow: 20px 15px 35px rgba(0,0,0, 0.8);
+    }
