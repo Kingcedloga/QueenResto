@@ -420,3 +420,13 @@ header .navbar li a:hover{
     left: 0;
     object-fit: cover;
 }
+.expert .contenu .box h3{
+    color: #111;
+    font-weight: 400;
+    text-align: center;
+}
+
+.temoignage{
+    background-image: url(./images/bg2.jpg);
+    background-size: cover;
+}
