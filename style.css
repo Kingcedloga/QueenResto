@@ -430,3 +430,12 @@ header .navbar li a:hover{
     background-image: url(./images/bg2.jpg);
     background-size: cover;
 }
+.temoignage .contenu{
+    display: flex;
+    margin-top: 40px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
