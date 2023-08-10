@@ -439,3 +439,14 @@ header .navbar li a:hover{
     flex-wrap: wrap;
     flex-direction: row;
 }
+.temoignage .contenu .box{
+    width: 340px;
+    margin: 20px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 15px;
+    padding: 40px;
+}
