@@ -401,4 +401,9 @@ header .navbar li a:hover{
     .expert{
         margin-top:-100px;
     }
-    
+    .expert .contenu{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 40px;
+    }
