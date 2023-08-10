@@ -407,3 +407,16 @@ header .navbar li a:hover{
         justify-content: center;
         margin-top: 40px;
     }
+    
+.expert .contenu .box{
+    width: 250px;
+    margin: 15px;
+}
+.expert .contenu .box img{
+    position: relative;
+    width: 100%;
+    height: 300px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
