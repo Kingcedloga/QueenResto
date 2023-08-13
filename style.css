@@ -470,3 +470,8 @@ header .navbar li a:hover{
     justify-content: center;
     align-items: center;
 }
+.temoignage .contenu .box .text{
+    text-align: center;
+    color: #666;
+    font-style: italic;
+}
