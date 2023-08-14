@@ -513,3 +513,9 @@ header .navbar li a:hover{
     width: 100%;
     margin-bottom: 20px;
 }
+
+.contactform h3{
+    color: #111;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
