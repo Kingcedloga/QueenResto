@@ -547,3 +547,13 @@ header .navbar li a:hover{
     align-items: center;
     justify-content: center;
 }
+.copyright{
+    padding: 20px 40px;
+    border-top: 2px solid rgba(0,0,0, 0.1);
+    background: rgba(228,222,222,);
+    text-align: center;
+}
+
+.copyright p:nth-child(1){
+    color: #333;
+}
