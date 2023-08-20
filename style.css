@@ -563,3 +563,7 @@ header .navbar li a:hover{
     font-weight: 600;
     font-style: italic;
 }
+.contact .titre-text span{
+    color: #fb911f;
+    font-size: 2em;
+}
