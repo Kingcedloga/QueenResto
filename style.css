@@ -589,4 +589,13 @@ header,
 header.sticky{
     padding: 10px 20px;
 }
+header .navbar li{
+    margin-left: 0px;
+}
 
+header .navbar li a {
+    text-decoration: none;
+    color: #111;
+    font-size: 1.6em;
+    font-weight: 300;
+}
