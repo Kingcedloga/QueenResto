@@ -573,3 +573,10 @@ header.sticky{
     padding: 10px 10px;
     box-shadow: 0px 5px 20px rgba(0,0,0, 0.05);
 }
+header.sticky .logo{
+    color: #000;
+}
+
+header.sticky .navbar li a {
+    color: #000;
+}
