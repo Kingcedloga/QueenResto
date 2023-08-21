@@ -599,3 +599,9 @@ header .navbar li a {
     font-size: 1.6em;
     font-weight: 300;
 }
+.navbar{
+    display: none;
+}
+section{
+    padding: 20px;
+}
