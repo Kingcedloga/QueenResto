@@ -605,3 +605,18 @@ header .navbar li a {
 section{
     padding: 20px;
 }
+
+header .navbar.active{
+    width: 100%;
+    height: calc(100% -50px);
+    position: fixed;
+    top: 68px;
+    left:0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background: #ffff;
+    align-items: center;
+   line-height:13px;
+}
+
