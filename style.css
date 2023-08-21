@@ -584,4 +584,9 @@ header.sticky li a:hover{
     color: #fb911f;
     border-bottom: 2px solid #fb911f;
 }
+@media (max-width: 991px) {
+header, 
+header.sticky{
+    padding: 10px 20px;
+}
 
