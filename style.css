@@ -580,3 +580,8 @@ header.sticky .logo{
 header.sticky .navbar li a {
     color: #000;
 }
+header.sticky li a:hover{
+    color: #fb911f;
+    border-bottom: 2px solid #fb911f;
+}
+
