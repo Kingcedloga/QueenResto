@@ -40,6 +40,7 @@ header{
 .navbar li{
     list-style: none;
 }
+
 .navbar a{
     color: #fff;
     text-decoration: none;
@@ -47,20 +48,21 @@ header{
     font-weight: 700;
 }
 .btn-reserve{
-    padding: 10px 20px;
-       background: #fb911f;
+    padding : 25px 20px;
+    background: #fb911f;
       margin-top: -10px;
       text-transform:uppercase ;
-      border-radius: 30px;
+      border-radius: 20px ;
        font-weight: bold;
        font-size: 15px;
        transition: .4s
    }
    
    .btn-reserve:hover{
-       background: #d87710;
+       background: #e6b37d;
        transition: ease-out;
    }
+ 
    
 
 header .navbar li a:hover{
@@ -619,4 +621,13 @@ header .navbar.active{
     align-items: center;
    line-height:13px;
 }
-
+.menuToggle{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-image: url(./images/menu.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+    background-size: 30px;
+}
