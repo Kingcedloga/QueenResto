@@ -647,3 +647,13 @@ header.sticky .menuToggle{
 .banniere .contenu h2{
     font-size: 2em;
 }
+.row .col50 img{
+    margin-left: 18%;
+}
+
+.contenu p:nth-child(2){
+    font-size: 1.2em;
+}
+.expert{
+    margin-top: 0px;
+}
