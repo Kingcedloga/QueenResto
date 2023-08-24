@@ -639,3 +639,11 @@ header .navbar.active{
     background-repeat: no-repeat;
     background-origin: center;
 }
+header.sticky .menuToggle{
+    filter: invert(1);
+}
+
+
+.banniere .contenu h2{
+    font-size: 2em;
+}
