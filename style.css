@@ -631,3 +631,11 @@ header .navbar.active{
     cursor: pointer;
     background-size: 30px;
 }
+
+.menuToggle.active
+{
+    background-image: url(./images/close.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-origin: center;
+}
