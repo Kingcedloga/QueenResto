@@ -674,3 +674,16 @@ header.sticky .menuToggle{
 .temoignage p{
 text-align: center;
 }
+.contactform{
+    margin-left: 25%;
+}
+
+
+    .row .col50 {
+        position: relative;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 30px;
+    
+    }
