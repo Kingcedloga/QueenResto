@@ -665,3 +665,12 @@ header.sticky .menuToggle{
     display: flex;
     flex-direction: column;
 }
+
+.temoignage h2{
+    font-size: 2em;
+    text-align: center;
+}
+
+.temoignage p{
+text-align: center;
+}
