@@ -1,0 +1,18 @@
+// Création de l'objet XMLHttpRequest
+let ajx = new XMLHttpRequest();
+
+
+ajx.open('GET', 'fichier.php', true);
+ajx.onload = function() {
+  if (xhr.status === 200) {
+    // La requête s'est terminée avec succès
+    var response = xhr.responseText;
+    // Faites quelque chose avec la réponse ici
+    console.log(response);
+  } else {
+    // La requête a échoué
+    console.log('Erreur lors de la récupération du fichier PHP.');
+  }
+};
+
+ajx.send();
